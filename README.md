@@ -31,7 +31,7 @@ pip install streamlit opencv-python numpy
 git clone https://github.com/your-username/image-encryption-tool.git
 cd image-encryption-tool
 
-streamlit run app.py
+streamlit run image_encryption.py
 ```
 
 ## 📬 Contact  
